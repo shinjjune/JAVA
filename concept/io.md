@@ -26,6 +26,7 @@
 * 입, 출력 코드가 있는 메서드 뒤에 IOException을 던진다(throws)
 
 ### 기본 입력에 사용하는 클래스
+```
 * 문자 입력 System.in.read()
 * 문자열 입력
  BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
@@ -37,7 +38,7 @@
  java.util.Scanner in = new java.util.Scanner(System.in);
  String str = in.nextLine();
  int x = in.nextInt();
-
+```
 
 
 
