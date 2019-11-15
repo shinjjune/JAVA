@@ -12,7 +12,8 @@
 
 - 플랫폼에 독립적인 프로그래밍을 할 수 있음.
 
-![1573718771467](C:\Users\j.h Shin\AppData\Roaming\Typora\typora-user-images\1573718771467.png)
+![image](https://user-images.githubusercontent.com/47058441/68953174-b226cc80-0804-11ea-90fe-851d1f7fe0f4.png)
+
 
 ### 자바 프로그램의 특징
 
