@@ -156,7 +156,8 @@ public Person(String name, int age){
 
 - 여러 인스턴스가 하나의 값을 공유할 필요가 있음
 
-![1573900632294](C:\Users\j.h Shin\AppData\Roaming\Typora\typora-user-images\1573900632294.png)
+![image](https://user-images.githubusercontent.com/47058441/68992293-dfc75080-08ac-11ea-9219-05db85823081.png)
+
 
 - static 변수는 처음 프로그램이 로드 될 때 데이터 영역에 생성 됨
 - 인스턴스의 생성과 상관 없이 사용할 수 있으므로 클래스 이름으로 참조
