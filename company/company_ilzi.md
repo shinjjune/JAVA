@@ -19,4 +19,4 @@
 |   4.2   |  JEUS, tech support      |    |
 |   4.3   |        |    |
 |   4.28   |  오랜만에 쓰는 회사일지 | server1  가동 성공   |
-
+|   5.7   |  ITGC      | J-SOX   |
