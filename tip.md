@@ -67,3 +67,21 @@ private static double insertBatchFileToDB(List<Object> list) throws Exception{
     return (end - start) / 1000.0;    // insertBatchFileToDB 실행에 걸린 시간 
 }
 ```
+#### 3. indexOf()
+: "문자열".inddexOf("찾을 문자")
+ -> 문자열에서 원하는 문자여을 검색하여 찾거나 아니면 배열에서 원하는 특정 배열값의 존재여부 등을 확인.
+ ```
+ var text = "456789";
+var findStr = "123"; // 123이 있는지 찾아보기
+
+if (text.indexOf(findStr) != -1) {
+  alert("Find!");
+}
+else {
+  alert("Not Found!!");
+}
+ ```
+
+!-1 의 의미: -1이란 값이 존재하지 않음을 의미
+
+
