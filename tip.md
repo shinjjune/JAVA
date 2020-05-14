@@ -4,7 +4,7 @@
 
 
 #### 2. insert batch (oracle)
-
+```
 private static double insertBatchFileToDB(List<Object> list) throws Exception{
     long start = System.currentTimeMillis();    // 작동 시간 측정용
  
@@ -66,7 +66,4 @@ private static double insertBatchFileToDB(List<Object> list) throws Exception{
  
     return (end - start) / 1000.0;    // insertBatchFileToDB 실행에 걸린 시간 
 }
-
-
-출처: https://psage.tistory.com/entry/Oracle용-insert-batch-샘플 [IT Etc...]
-
+```
