@@ -95,5 +95,9 @@ else {
 - NEXTVAL: 시퀀스의 값을 증가
 - CURRVAL: 현재 시퀀스 값
 
+#### 5. PL/SQL tip
+- 'for update'
+
+select * from [table] for update;  ->  데이터 수정가능
 
 
